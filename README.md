@@ -1,2 +1,2 @@
 # objects
-Mã nguồn objects được sử dụng để thực hành tại [CodeGym](https://codegym.vn) 
+1. Create menthol move left, move right
